@@ -1,8 +1,10 @@
 # TestesEmJava
 ## **Uma atividade que realizei para o curso da Edutech/Alura.**
 ## **Enunciado:**
+
 <br>
-**O João gostaria de criar um programa sobre Imposto de Renda (IR) e verificou as regras de alíquota. Ele descobriu no site da receita:**
+
+O João gostaria de criar um programa sobre Imposto de Renda (IR) e verificou as regras de alíquota. Ele descobriu no site da receita:
 
 De 1900.0 até 2800.0, o IR é de 7.5% e pode deduzir na declaração o valor de R$ 142
 De 2800.01 até 3751.0, o IR é de 15% e pode deduzir R$ 350
@@ -18,4 +20,4 @@ public class TesteIR {
         //ifs aqui
     }
 }
-Agora ajude o João a implementação todas as regras usando condicionais!
+## Agora ajude o João a implementação todas as regras usando condicionais!
